@@ -1,0 +1,14 @@
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Design source files — keep these out of the repo.
+# jsDelivr serves committed files; a 40MB .psd bloats the repo for nothing.
+*.psd
+*.ai
+*.xcf
+*.sketch
+*.fig
+*.afdesign
+*.afphoto
