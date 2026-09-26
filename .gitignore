@@ -12,3 +12,6 @@ desktop.ini
 *.fig
 *.afdesign
 *.afphoto
+
+# Local agent memory — never served, never committed.
+.atl/
