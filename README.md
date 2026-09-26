@@ -1,6 +1,6 @@
 # Mercurio Assets
 
-Image CDN for the Mercurio project, served for free through
+Image CDN for the Mercurio project (simulación de CDN), served for free through
 [jsDelivr](https://www.jsdelivr.com) straight off this public GitHub repo.
 
 No account, no build step, no config. jsDelivr reads the repo as-is.
